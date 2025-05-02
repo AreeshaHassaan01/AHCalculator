@@ -1,3 +1,29 @@
+multiplication
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Multiplicatio:
+a = float(input("Enter first number: "))
+b = float(input("Enter second number: "))
+product = multiply_numbers(a, b)
+print(f"The product of {a} and {b} is: {product}")
+=======
+
 subtraction
 
 
@@ -25,4 +51,5 @@ y = input("Type another number: ")
 sum = int(x) + int(y)
 
 print("The sum is: ", sum)
+addition
 addition
