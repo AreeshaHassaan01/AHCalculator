@@ -1,3 +1,4 @@
+subtraction
 
 
 
@@ -14,3 +15,14 @@ num2 = float(input("Enter the second number: "))
 
 difference = num1 - num2
 print("The difference is:", difference)
+=======
+
+Addition:
+
+x = input("Type a number: ")
+y = input("Type another number: ")
+
+sum = int(x) + int(y)
+
+print("The sum is: ", sum)
+addition
